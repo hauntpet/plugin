@@ -1,0 +1,21 @@
+{
+    "name": "hauntpet/plugin",
+    "description": "The main plugin package.",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Lumite Studios",
+            "email": "hauntpet@lumitestudios.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "HauntPet\\Plugin\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
