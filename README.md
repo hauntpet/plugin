@@ -1,4 +1,5 @@
 # hauntpet/plugin
+The base package used to build a custom Haunt plugin.
 
 ## Documentation
 ### Installation
