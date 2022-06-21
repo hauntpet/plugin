@@ -2,4 +2,6 @@
 
 ## Documentation
 ### Installation
-`composer require hauntpet/plugin`
+```bash
+composer require hauntpet/plugin
+```
